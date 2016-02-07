@@ -5,15 +5,15 @@ Level.4 works on iOS 9+, you can use it to protect your network traffic.
 
 LightSword is a server program written by Node.js. And to use Level.4, you should install LightSword on your server. It's very simple! 
 
-1. Install Node.js 4.0+ from https://nodejs.org
+1.Install Node.js 4.0+ from https://nodejs.org
 
-2. Install LightSword by npm
+2.Install LightSword by npm
 
 ```
 > npm i -g lightsword
 ```
 
-3. Run LightSword 
+3.Run LightSword 
 
 ```
 > lsserver --port 8081 --password mypassword --fork --cluster
