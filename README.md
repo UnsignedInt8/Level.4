@@ -29,3 +29,8 @@ Roadmap:
 2. ChinaDNS
 3. Local area IP filter
 4. IPv6
+
+Privacy Policy
+---
+
+Level.4 dosen't collect any data about the user.
