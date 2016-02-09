@@ -26,7 +26,7 @@ Now, run Level.4 on your iOS device, tap 'Add Server Configuration', input your 
 Roadmap:
 
 1. Debug TCP/IPv4 stack
-2. ChinaDNS
+2. Bypass China IP
 3. Local area IP filter
 4. IPv6
 
