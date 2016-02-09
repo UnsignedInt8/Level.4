@@ -34,3 +34,9 @@ Privacy Policy
 ---
 
 Level.4 dosen't collect any data about the user.
+
+Progress
+---
+
+0.1.0 Not Stability (In Review)
+0.2.0 IMPORTANT Update (Developing)
