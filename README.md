@@ -39,4 +39,5 @@ Progress
 ---
 
 0.1.0 Not Stability (In Review)
-0.2.0 IMPORTANT Update (Developing)
+
+***0.2.0 IMPORTANT Update (Developing)***
