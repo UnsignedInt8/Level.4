@@ -39,4 +39,4 @@ Progress
 
 0.1.0 Not Stable (Waiting For Store Review)
 
-*0.2.0 IMPORTANT Update (Waiting For Beta Review)*
+***0.2.0 IMPORTANT UPDATE: Lots of bugs are fixed (Waiting For Beta Review)***
