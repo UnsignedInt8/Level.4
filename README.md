@@ -27,8 +27,7 @@ Roadmap:
 
 1. Debug TCP/IPv4 stack
 2. Bypass China IP
-3. Local area IP filter
-4. IPv6
+3. IPv6
 
 Privacy Policy
 ---
@@ -38,6 +37,6 @@ Level.4 dosen't collect any data about the user.
 Progress
 ---
 
-0.1.0 Not Stability (In Review)
+0.1.0 Not Stable (Waiting For Store Review)
 
-***0.2.0 IMPORTANT Update (Developing)***
+*0.2.0 IMPORTANT Update (Waiting For Beta Review)*
