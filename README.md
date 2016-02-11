@@ -37,6 +37,6 @@ Level.4 dosen't collect any data about the user.
 Progress
 ---
 
-0.1.0 Not Stable (Waiting For Store Review)
+0.1.0 Not Stable (Reject)
 
-***0.2.0 IMPORTANT UPDATE: Lots of bugs are fixed (Waiting For Beta Review)***
+***0.2.0 IMPORTANT UPDATE: Lots of bugs are fixed (Waiting For Review)***
