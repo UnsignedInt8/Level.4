@@ -25,9 +25,10 @@ Now, run Level.4 on your iOS device, tap 'Add Server Configuration', input your 
 
 Roadmap:
 
-1. Debug TCP/IPv4 stack
+~~1. Debug TCP/IPv4 stack~~
 2. Bypass China IP
-3. IPv6
+3. Compatible with SS
+4. IPv6
 
 Privacy Policy
 ---
@@ -37,6 +38,6 @@ Level.4 dosen't collect any data about the user.
 Progress
 ---
 
-0.1.0 Not Stable (Rejected)
+~~0.1.0 Not Stable (Rejected)~~
 
 ***0.2.0 IMPORTANT UPDATE: Lots of bugs are fixed (Waiting For Review)***
