@@ -43,4 +43,6 @@ Progress
 
 ~~0.1.0 Not Stable (Rejected)~~
 
-***0.2.0 IMPORTANT UPDATE: Lots of bugs are fixed (Waiting For Review)***
+~~0.2.0 IMPORTANT UPDATE: Lots of bugs are fixed (Ready for Sale)~~
+
+***0.2.3 IMPORANT UPDATE: Improved performance (Waiting For Test)***
