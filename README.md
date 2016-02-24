@@ -33,6 +33,8 @@ Roadmap:
 
 4.IPv6
 
+5.Today Widget
+
 Privacy Policy
 ---
 
@@ -45,6 +47,6 @@ Progress
 
 ~~0.2.0 IMPORTANT UPDATE: Lots of bugs are fixed (Ready for Sale)~~
 
-***0.2.3 IMPORANT UPDATE: Improved performance (Waiting For Review)***
+***0.2.3 IMPORANT UPDATE: Improved performance (Ready for Sale)***
 
-0.3.0 Bypassing China IP (Testing)
+0.3.0 Bypassing China IP (Testing, iOS 9.3 Required)
