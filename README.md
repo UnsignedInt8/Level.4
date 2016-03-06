@@ -1,19 +1,36 @@
-# Level.4
-An app for protecting your iOS network traffic
+# Level.4(iOS) 5(OS X)
 
-Level.4 works on iOS 9+, you can use it to protect your network traffic.
+An app for protecting your iOS/OS X network traffic
 
-LightSword is a server program written by Node.js. And to use Level.4, you should install LightSword on your server. It's very simple! 
+LightSword is a server program written by Node.js. And to use Level.4/5, you should install LightSword on your server. It's very simple! 
 
-1.Install Node.js 4.0+ from https://nodejs.org
-
-2.Install LightSword by npm
+1.Installing
 
 ```
-> npm i -g lightsword
-```
+# Using Ubuntu
+[sudo] apt-get update -y
+[sudo] apt-get install curl -y
 
-3.Run LightSword 
+[sudo] curl -sL https://deb.nodesource.com/setup_5.x | sudo -E bash -
+[sudo] apt-get install -y nodejs
+[sudo] npm install lightsword -g
+
+# Using Debian, as root
+[sudo] apt-get update -y
+[sudo] apt-get install curl -y
+
+[sudo] curl -sL https://deb.nodesource.com/setup_5.x | bash -
+[sudo] apt-get install -y nodejs
+[sudo] npm install lightsword -g
+
+# Using RHEL 6, CentOS 6
+[sudo] yum update
+[sudo] yum install curl
+
+[sudo] curl -sL https://rpm.nodesource.com/setup_5.x | bash -
+[sudo] npm install lightsword -g
+```
+2.Running 
 
 ```
 > lsserver --port 8081 --password mypassword --fork --cluster
@@ -21,7 +38,7 @@ LightSword is a server program written by Node.js. And to use Level.4, you shoul
 
 OK, your server is running. To get more information, type: 'lsserver -h' in your terminal.
 
-Now, run Level.4 on your iOS device, tap 'Add Server Configuration', input your server label, address, port number, password, and save it. Switch on the connection toggle, Level.4 is going to protect your network traffic.
+Now, run Level.4/5 on your iOS/OS X device, tap 'Add Server Configuration', input your server label, address, port number, password, and save it. Switch on the connection toggle, Level.4/5 is going to protect your network traffic.
 
 Roadmap:
 
@@ -38,7 +55,7 @@ Roadmap:
 Privacy Policy
 ---
 
-Level.4 dosen't collect any data about the user.
+Level.4/5 dosen't collect any data about the user.
 
 Progress
 ---
